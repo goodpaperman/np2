@@ -1,0 +1,4 @@
+static Service_Reporter "-p 9411"
+static ACE_Service_Manager "-p 9412"
+static Server_Logging_Daemon "log_server.exe 8888"
+static Server_Shutdown

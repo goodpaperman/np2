@@ -1,0 +1,2 @@
+log_server 8888
+pause
